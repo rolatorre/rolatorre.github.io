@@ -1,0 +1,123 @@
+body{
+    background-image: url(https://png.pngtree.com/background/20210710/original/pngtree-business-resume-background-material-picture-image_999584.jpg);
+    
+}
+
+#titulos1{
+    color: #ff9999;
+    font-family: calibri;
+    font-size: 25px;
+    margin: 10px 300px 10px 100px;
+    padding: 10px 50px 10px 50px;
+}
+
+h1 {
+    color: #1a1a1a; 
+    font-size: 90px;
+    text-align: center;
+    font-family: lucida sans regular; 
+    margin: 50px 100px 0px 0px;
+    padding: 50px;
+    text-shadow: 2px 2px grey; 
+    
+
+}
+span{
+
+    font-family: verdana;
+    font-size: 10px;
+}
+img {
+    border-style: solid; 
+    color: rosybrown; 
+    margin: 0px 0px 0px 300px;
+    text-align: left;
+    border-radius: 8px
+
+}
+#izquierda{
+  width: 300px;
+  padding: 5px;
+  margin: 10px 200px 20px 100px;
+  float: left;
+}
+
+   
+
+
+#derecha{
+    width: 300px;
+    padding: 5px;
+    margin: 10px 300px 20px 100px;
+    float: right;
+    font-family: helvetica;
+    font-style: oblique;
+   }
+
+ p {
+   margin: 10px 300px 10px 100px;
+   font-style: oblique;
+   font-family: heveltica;
+   text-align: justify;
+   font-size: 20px;
+  }
+
+ #imp{
+    color: black; 
+    font-size: 25px;
+    font-family: verdana;
+    font-style: italic;
+    
+ }
+
+ #secu{
+    color: #ff9999;
+    font-size: 15px;
+    font-family: verdana;
+    font-style: italic;
+    
+ }
+ #informacion{
+    float: left;
+    margin: 0px 10px 10px 300px;
+    padding: 0px 10px 10px 10px;
+ }
+ #acerca{
+    color: #ffb399;
+    margin: 50px 10px 0px 10px;
+    padding: 10px;
+ }
+ #habilidades1{
+    float: right;
+    display: inline;
+    font-family: helvetica;
+    font-style: oblique;
+ }
+ * {
+    box-sizing: border-box;
+  }
+  #cont{
+    font-family: verdana;
+    font-size: 25px;
+    font-style: italic;
+  }
+  #contenido{
+    font-family: helvetica;
+    font-style: oblique;
+  }
+  #boton{
+    color: whitesmoke;
+    background-color: rosybrown;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: wavy;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 12px;
+    margin: 200px 50px 0px 10px;
+  }
+  #demo{
+    margin: 300px 0px 0px 0px;
+    display: inline-block;
+    
+  }
